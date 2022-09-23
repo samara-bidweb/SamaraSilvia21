@@ -1,4 +1,7 @@
-## Olá! Eu sou Samara Silvia 💞️
+<!-- ## Olá! Eu sou Samara Silvia 💞️ --->
+
+[![Typing SVG](http://typing-svg.herokuapp.com?lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/SamaraSilvia21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamaraSilvia21&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
