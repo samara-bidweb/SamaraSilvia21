@@ -1,4 +1,11 @@
-<!-- ## Olá! Eu sou Samara Silvia 💞️ --->
+<!-- ## Olá! Eu sou Samara Silvia 💞️ 
+ 
+vue-dark
+gotham
+blueberry 
+tokyonight 
+--->
+
 
 [![Typing SVG](http://typing-svg.herokuapp.com?lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
 
