@@ -10,7 +10,6 @@ tokyonight
  <img align="right" alt="Samara-pic" height="150" style="border-radius:150px" src="https://i.pinimg.com/originals/7a/9f/bb/7a9fbba50ca0f76593130336f5ff9092.gif">
 --->
 
-
 [![Typing SVG](http://typing-svg.herokuapp.com?lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
 
 <div align="center">
