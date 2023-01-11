@@ -23,6 +23,8 @@ tokyonight
   <img align="center" alt="Samara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Samara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/bootstrap-original.svg">
+      <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/tailwind-original.svg">
   <img align="right" alt="Samara-pic" height="250" width="250" style="border-radius:250px" src="https://user-images.githubusercontent.com/113690864/196422495-a93a1847-7f33-4d4d-98b7-c779a1490cd6.gif">
 
 </div>
