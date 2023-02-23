@@ -10,6 +10,8 @@ tokyonight
  <img align="right" alt="Samara-pic" height="150" style="border-radius:150px" src="https://i.pinimg.com/originals/7a/9f/bb/7a9fbba50ca0f76593130336f5ff9092.gif">
 --->
 
+![Banner to Github Profile](https://user-images.githubusercontent.com/113690864/221021834-15de660c-e092-4af4-a74d-348925de7625.gif)
+<br><br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
 
 <div align="center">
@@ -25,7 +27,6 @@ tokyonight
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
       <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="right" alt="Samara-pic" height="250" width="250" style="border-radius:250px" src="https://user-images.githubusercontent.com/113690864/196422495-a93a1847-7f33-4d4d-98b7-c779a1490cd6.gif">
 
 </div>
   
